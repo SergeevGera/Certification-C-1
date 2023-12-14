@@ -1,0 +1,15 @@
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\bin\Debug\net6.0\ekzam.exe
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\bin\Debug\net6.0\ekzam.deps.json
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\bin\Debug\net6.0\ekzam.runtimeconfig.json
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\bin\Debug\net6.0\ekzam.dll
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\bin\Debug\net6.0\ekzam.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ekzam.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ekzam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ekzam.AssemblyInfoInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ekzam.AssemblyInfo.cs
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ekzam.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ekzam.dll
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\refint\ekzam.dll
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ekzam.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ekzam.genruntimeconfig.cache
+C:\Users\serge\OneDrive\Рабочий стол\Учеба\С# семинары\ekzcharp\ekzam\obj\Debug\net6.0\ref\ekzam.dll
